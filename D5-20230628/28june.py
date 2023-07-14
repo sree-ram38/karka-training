@@ -1,0 +1,13 @@
+# print "hello"
+# print("hello")
+# print(5)
+# print('5')
+# print(5+2)
+# print("82+72")
+# print("82"+"72")
+# print("transistor,changing the state,binary to decimal")
+#  print("82+56")
+# print(82+67)
+# print("82"+56)
+# print(82+"56")
+print("82"+"56")

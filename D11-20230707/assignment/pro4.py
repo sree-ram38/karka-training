@@ -1,0 +1,8 @@
+print("Please enter the following information so I can sell it")
+first=input("First name:")
+second=input("Last name:")
+grade=int(input("Grade  (9-12):"))
+student=int(input("Student ID:"))
+log=input("Login :")
+gpa=float(input("GPA   (0_0-4.0):"))
+print(f"\nYour information:\n\tLogin:{log}\n\tID:{student:}\n\tName:{first}\n\tGPA:{gpa}\n\tGrade:{grade}")
