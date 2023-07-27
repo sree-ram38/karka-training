@@ -25,6 +25,7 @@ my_resume={"Name" :"SREERAM I",
                                              }
                                     } 
             }
+district=my_resume["Personal Details"]["Address"]["District"]
 
 for resume in my_resume["Hobbies"]:
     print(resume)
@@ -38,8 +39,8 @@ for hard in my_resume["Hard skills"]:
 for edu in my_resume["Educational Qualification"]:
     print(edu)
 
-for add in my_resume["Personal Details"]["Address"]["District"]:
-    print(add)
+# for add in district:
+    print(district)
 
 # print(my_resume["Experience"])
 

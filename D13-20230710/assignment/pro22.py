@@ -1,4 +1,4 @@
-x=range(-10,11)
+x=range(-10,11,0.5)
 for i in x:
    i=float(i)
    if i==10:

@@ -9,9 +9,10 @@ fruits=[]
 vegetable=[]
 for val in data:
     category = val["category"]
-    if val["category"]=="fruits":
-        fruits["category"].append(val)
+    name=val["name"]
+    if val["category"]=="Fruits":
+        fruits.append(name)
     else:
-     vegetable["category"].append[val]
-print(fruits)
-print(vegetable)
+        vegetable.append(name)
+print("Fruits : ",fruits)
+print("Vegetables : ",vegetable)

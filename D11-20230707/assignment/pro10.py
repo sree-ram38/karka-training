@@ -1,5 +1,5 @@
-names=input("name enter:")
-a=int(input("enter the age: "))
+names=input("enter the name : ")
+a=int(input("enter the age : "))
 print(f"Hey, What's your name? (sorry, I keep forgetting.){names}")
 print(f"ok {names} how old are you? {a}")
 print("\n")

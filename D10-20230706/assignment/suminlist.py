@@ -41,8 +41,8 @@
 sum1=[10,20,30,40]
 data=[]
 for sum in sum1:
-   a=str(sum)
-   a1="INR "+a
-   data.append(a1)
+   string=str(sum)
+   added="INR "+string
+   data.append(added)
 print(data)
 

@@ -1,5 +1,6 @@
-# fruits=["pine apple","apple","strawberry","guava","litchi"]
-# # print(fruits[0:6])
+fruits=["pine apple","apple","strawberry","guava","litchi","banana","pine"]
+a=len(fruits)
+print(fruits[0:a])
 # for i,fruit in enumerate(fruits):
 #     print(str(i)+fruit)
 
@@ -35,10 +36,10 @@
 #     print(fruit)
 
 
-fruits=["pine apple","apple","strawberry","guava","litchi"]
-fruits.count("apple")
-for i,fruit in enumerate(fruits):
-    print(fruit)
+# fruits=["pine apple","apple","strawberry","guava","litchi"]
+# fruits.count("apple")
+# for i,fruit in enumerate(fruits):
+#     print(fruit)
 
 
 # fruits=["pine apple","apple","strawberry","guava","litchi"]
@@ -82,4 +83,3 @@ for i,fruit in enumerate(fruits):
 # fruits.sort()
 # for i,fruit in enumerate(fruits):
 #     print(fruit)
-

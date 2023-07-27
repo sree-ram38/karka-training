@@ -11,8 +11,6 @@ def para(first_number,operator,second_number):
         return(first_number%second_number)
     elif operator=="**":
         return(first_number**second_number)
-    else:
-        return
 
 print("INPUT:")
 first_number=int(input("Enter the first number :"))

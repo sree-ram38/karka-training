@@ -1,4 +1,4 @@
-name="Hello, what is your name? \n"
+name=input("Hello, what is your name? \n")
 get=input(name)
 age=f"Hi,{get}! How old are you? \n" 
 p=input(age)

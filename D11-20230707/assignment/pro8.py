@@ -8,5 +8,5 @@ elif age<25:
     print("You can't rent a car",name)
 elif age>=25:
     print("You can do anything that's legal",name)
-else:
-    print(0)
+# else:
+#     print(0)

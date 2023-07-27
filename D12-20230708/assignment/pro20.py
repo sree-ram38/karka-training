@@ -7,3 +7,4 @@ while True:
     if total==0:
         break
     print(f"The total so far is : {total}")
+    

@@ -5,21 +5,21 @@ print(a)
 planet=int(input("Which planet are you visiting :"))
 
 if planet==1:
-    plan=wei*0.78
+    planets=wei*0.78
     
 elif planet==2:
-    plan=wei*0.39
+    planets=wei*0.39
 
 elif planet==3:
-    plan=wei*2.65
+    planets=wei*2.65
 
 elif planet==4:
-    plan=wei*1.17
+    planets=wei*1.17
 
 elif planet==5:
-    plan=wei*1.05
+    planets=wei*1.05
     
 elif planet==6:
-    plan=wei*1.23
+    planets=wei*1.23
 
-print(f"Your weight would be {plan} pounds on that planet")
+print(f"Your weight would be {planets} pounds on that planet")

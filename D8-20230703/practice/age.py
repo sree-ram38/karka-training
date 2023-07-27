@@ -4,6 +4,6 @@ def eligible(age):
     else:
         return "not eligible"
 
-year=int(input("Enter your age :"))
-result=eligible(year)
-print(result)
+age=int(input("Enter your age :"))
+# result=eligible(age)
+print(eligible(age))

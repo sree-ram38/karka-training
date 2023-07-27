@@ -1,2 +1,2 @@
 import age
-age.eligible(age)
+age.eligible("num")

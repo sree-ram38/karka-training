@@ -1,4 +1,4 @@
-education=[{"studied":"B.Tech","Institute":"cape","semester mark":
+education=[{"studied":"B.Tech","Institute":"cape","semester mark":"1"
             [
             {
             "semester name":1,
@@ -33,5 +33,4 @@ education=[{"studied":"B.Tech","Institute":"cape","semester mark":
             "semester grade":"B"                
             }]
             ]
-for data in education:
-    print(data["studied"])
+print(education)

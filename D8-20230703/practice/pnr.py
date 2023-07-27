@@ -18,5 +18,5 @@ def interest(principle,number,rate):
 principle=int(input("Enter the value of principle :"))
 number=int(input("Enter the value of number of year :"))
 rate=int(input("Enter the value of interest :"))
-ret=interest(principle,number,rate)
-print(ret)
+# ret=interest(principle,number,rate)
+print("principle value : ",interest(principle,number,rate))
