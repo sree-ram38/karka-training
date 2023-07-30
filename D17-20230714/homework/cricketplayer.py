@@ -18,10 +18,9 @@ def hat(player):
 
 def top(player):
     print("Top player")
-    bat=0
+    bat=100
     for data in player:
-        if bat>data["top batting score"]:
-            bat=data
+        if data["top batting score"]>bat:
             print(data["name"])
 
 century(player)
