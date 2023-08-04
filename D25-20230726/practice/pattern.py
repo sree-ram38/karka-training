@@ -11,6 +11,6 @@
 
 inp=int(input("Enter the number : "))
 for data in range(inp):
-    for data1 in range(inp):
+    for data1 in range(1,inp):
         print(" * ",end="")
     print("")
