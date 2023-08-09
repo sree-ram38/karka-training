@@ -17,12 +17,18 @@
 #     print("")   
 
 
-a=int(input("Enter the number: ")) 
-for data in range(1,a*2):
-    if data<=a:
-        b=data
-else:
-    b=(a*2)-1 
-for k in range(b): 
-    print("*", end=" ")
-    print()
+# a=int(input("Enter the number: ")) 
+# for data in range(1,a*2):
+#     if data<=a:
+#     print()
+
+
+val=int(input("enter the val : "))
+for data in range(1,val*2):
+    if data<=val:
+        data1=data
+    else:
+        data1=(val*2)-data
+    for data in range(data1):
+        print("*",end="")
+    print("")
