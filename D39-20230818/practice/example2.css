@@ -1,0 +1,37 @@
+*{
+    font-family: 'Pacifico', cursive;
+}
+.outer{
+    border: 1px solid;
+}
+.one{
+    text-align: center;
+    border: 1px solid;
+    
+}
+.two{
+    text-align: center;
+    border: 1px solid;
+}
+.three{
+    border: 1px solid;
+}
+.four{
+
+    width: 10%;
+    display: inline-block;
+    padding: 100;
+    border: 1px solid;
+    padding: 200;
+
+}
+.five{
+    width: 50%;
+    display: inline-block;
+    text-align:right;
+}
+.six{
+    border: 1px solid;
+    text-align: center;
+}  
+
