@@ -1,0 +1,20 @@
+.header{
+    border: 2px double darkorchid;
+    padding: 30px 0px;
+}
+.navigation{
+    border: 2px double darkorchid;
+    padding: 30px 0px;
+}
+.container{
+    border: 2px double darkorchid;
+    padding: 100px;
+}
+.footer{
+    border: 2px double darkorchid;
+    padding: 30px 0px;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
