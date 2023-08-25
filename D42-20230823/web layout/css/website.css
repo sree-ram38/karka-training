@@ -1,0 +1,29 @@
+*{font-family: 'Gluten', cursive;}
+
+body{
+    border:  1px solid black;
+
+}
+header{
+    border: 1px solid black;
+}
+img{
+    margin-left: 30px;
+    margin-top: 20px;;
+}
+.image1{
+    display: inline-block;
+    margin-left: 1450px;
+}
+.image2{
+    display: inline-block;
+    width: 45%;
+}
+.division1{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 90px;
+    font-size: xx-large;
+    width: 45%;
+
+}

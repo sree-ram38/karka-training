@@ -1,69 +1,49 @@
 *{
-    padding:0px;
-    margin:0px;
-  }
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    border: 1px solid black;
+    text-align: center;
+    padding: 20;
+}
+.nav{
+    border: 2px solid black;
+    text-align: center;
+    padding: 20;
+}
+.leftaside{
+    border: 1px solid black;
+    width: 100;
+    padding: 205px 0px 205px 30px;
+    display: inline-block;
+}
+.merge{
   
-  .header{
-    background-color: darksalmon;
-    border:1px solid black;
-    text-align:center;
-    padding:10px;
-  }
-  .navigator{
-    background-color: gray;
-    border:1px solid black;
-    text-align:center;
-    padding:10px;
-  }
-  
-  .merge1{
-    background-color: cyan;
-    width:40%;
-    text-align:center;
-    display:inline-block;
-    margin-right: 100px;
-  }
-  
-  .box1{
-    background-color: bisque;
-    border:1px solid black;
-    margin:10px 10px;
-    padding:50px 0px;
-     
-  }
-  
-  .box2{
-    background-color: bisque;
-    border:1px solid black;
-    margin:10px 10px;
-    padding:50px 0px;
-  }
-  
-  .merge2{
-    width:40%;
-    text-align:center;
-    display:inline-block;
-    padding-left:120px;
-    vertical-align:top;
-  }
-  .box3{
-    background-color: bisque;
-    border:1px solid  black;
-    margin:10px 0px 0px 0px;
-    padding:50px 0px;
-    
-  }
-  
-  .box4{
-    background-color: bisque;
-    border:1px solid  black;
-    margin:10px 0px 0px 0px;
-    padding:50px 0px;
-  }
-  
-  .footer{
-    background-color: coral;
-    border:1px solid black;
-    text-align:center;
-    padding:10px 0px;
-  }
+    display: inline-block;
+    padding: 60;
+    ;
+}
+.one{
+    border: 1px solid black;
+    padding: 40;
+    margin-left: 500;
+}
+.two{
+    border: 1px solid black;
+    padding: 40;
+    margin-left: 500;
+    margin-top: 21px
+}
+.rightaside{
+    border: 1px solid black;
+    width: 100;
+    padding: 205px 0px 205px 30px;
+    display: inline-block;
+    margin-left:545 ;   
+}
+.footer{
+    border: 1px solid black;
+    text-align: center;
+    padding: 20;
+}
