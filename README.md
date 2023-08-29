@@ -1,1 +1,1 @@
-# karka-training
+# own-training
